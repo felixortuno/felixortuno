@@ -1,17 +1,19 @@
-## Hi there 👋
-<!--
-**felixortuno/felixortuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nombre = "Felix"
+presentacion = "👋 Hi, I'm Felix!"
+sobre_mi = (
+    "🎓 I am an AI student at EDEM passionate about building innovative solutions using artificial intelligence. "
+    "I enjoy working on projects that combine creativity, data, and technology, and I am constantly learning new ways "
+    "to apply AI to real-world challenges. My focus areas include machine learning, deep learning, and natural language processing."
+)
 
-Here are some ideas to get you started:
+redes_sociales = {
+    "LinkedIn": "https://www.linkedin.com/in/Felix Ortuño Martinez",
+    
+}
 
-- 🌱 I’m currently learning on EDEM
-
-
-
-
-
-
-
-
-
-fsvfdsvassa
+hobbies = [
+    "📚 Learning about new AI technologies",
+    "⚽ Playing and watching football",
+    "🧠 Solving problems and building creative projects",
+    "🌍 Exploring new cultures and traveling"
+]
