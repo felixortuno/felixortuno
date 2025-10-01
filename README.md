@@ -1,6 +1,3 @@
-# perfil_github.py
-# Este script genera un README.md profesional para tu perfil de GitHub
-
 nombre = "Felix"
 presentacion = "👋 Hi, I'm Felix!"
 sobre_mi = (
@@ -19,5 +16,5 @@ hobbies = [
     "⚽ Playing and watching football",
     "🧠 Solving problems and building creative projects",
     "🌍 Exploring new cultures and traveling"
-]
+
 
