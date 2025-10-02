@@ -15,12 +15,13 @@
 - etc...
 
 
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - 
-
 ## 📚 Learning
 - IA 
 - Trading
 - Github
+
+
+## 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/felix-ortu%C3%B1o-martinez-278747387/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/></a>
+
