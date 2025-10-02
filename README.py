@@ -8,9 +8,10 @@ sobre_mi = (
 
 redes_sociales = {
     "LinkedIn": "https://www.linkedin.com/in/felix-ortu%C3%B1o-martinez-278747387/",
-
-hobbies = [
+}
+hobbies = {
     "📚 Learning about new AI technologies",
     "⚽ Playing and watching football",
     "🧠 Solving problems and building creative projects",
     "🌍 Exploring new cultures and traveling"
+}
