@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JohFelix</h1>
+<h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">IA student on EDEM</h3>
 
 ## 💬 Ask me about
